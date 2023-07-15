@@ -10,7 +10,8 @@ const data = [
         'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzIDIiPjwvc3ZnPg==',
     },
     links: {
-      site: '',
+      site: 'https://movixappv1.vercel.app/',
+      repo:'https://github.com/aakashbh1/Movix-App',
     },
     technologies: [
       '#react',
